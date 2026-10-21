@@ -40,7 +40,7 @@ A simple, interactive modal window application built using HTML, CSS, and vanill
 
 ## Live Demo
 
-[View Live Project](https://asha8001.github.io/modal-window-js/)
+[View Live Project](https://asha0001.github.io/modal-window-js/)
 
 ## Run Locally
 
